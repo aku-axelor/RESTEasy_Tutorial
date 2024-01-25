@@ -39,7 +39,6 @@ public class HelloResource {
         String id = (String) data.get("id");
         String name = (String) data.get("name");
 
-        // Perform logic to update student with the given id and name
 
         String updatedStudent = "Updated student with Id: " + id + " and Name: " + name;
         return Response.ok().entity(updatedStudent).build();
