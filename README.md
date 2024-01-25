@@ -1,1 +1,1 @@
-This repositry includes basic CRUD operation using RESTEasy.
+This repositry is all about using  RESTEasy Api.
